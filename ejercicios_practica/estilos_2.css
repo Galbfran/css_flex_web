@@ -1,0 +1,21 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: aqua;
+}
+
+header{
+    width: 100%;
+    background-color: rgb(74, 74, 74);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav img{
+    width: 75px;
+}
